@@ -80,6 +80,7 @@ C:\Users\ACER\Documents\jimmaru\jimmaruAPI\obj\Debug\net10.0\refint\jimmaruAPI.d
 C:\Users\ACER\Documents\jimmaru\jimmaruAPI\obj\Debug\net10.0\jimmaruAPI.pdb
 C:\Users\ACER\Documents\jimmaru\jimmaruAPI\obj\Debug\net10.0\jimmaruAPI.genruntimeconfig.cache
 C:\Users\ACER\Documents\jimmaru\jimmaruAPI\obj\Debug\net10.0\ref\jimmaruAPI.dll
-C:\Users\ACER\Documents\jimmaru\jimmaruAPI\obj\Debug\net10.0\compressed\nmd8v5ttex-{0}-6sifenjtm2-6sifenjtm2.gz
-C:\Users\ACER\Documents\jimmaru\jimmaruAPI\obj\Debug\net10.0\compressed\0oiq9jgb7s-{0}-w27gppop93-w27gppop93.gz
-C:\Users\ACER\Documents\jimmaru\jimmaruAPI\obj\Debug\net10.0\compressed\c7a0hfj992-{0}-w27gppop93-w27gppop93.gz
+C:\Users\ACER\Documents\jimmaru\jimmaruAPI\obj\Debug\net10.0\jimmaruAPI.sourcelink.json
+C:\Users\ACER\Documents\jimmaru\jimmaruAPI\obj\Debug\net10.0\compressed\nmd8v5ttex-{0}-90j84uq2sd-90j84uq2sd.gz
+C:\Users\ACER\Documents\jimmaru\jimmaruAPI\obj\Debug\net10.0\compressed\0oiq9jgb7s-{0}-coj0hdwgj1-coj0hdwgj1.gz
+C:\Users\ACER\Documents\jimmaru\jimmaruAPI\obj\Debug\net10.0\compressed\c7a0hfj992-{0}-coj0hdwgj1-coj0hdwgj1.gz

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("jimmaruAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+497ad038108dc2954962c6cd5c6a350b8376dca4")]
 [assembly: System.Reflection.AssemblyProductAttribute("jimmaruAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("jimmaruAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

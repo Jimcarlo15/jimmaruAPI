@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACER\\Documents\\jimmaru\\jimmaruAPI\\jimmaruAPI.csproj",
+      "projectUniqueName": "C:\\BSIT\\jimmaru\\jimmaruAPI\\jimmaruAPI.csproj",
       "projectName": "jimmaruAPI",
-      "projectPath": "C:\\Users\\ACER\\Documents\\jimmaru\\jimmaruAPI\\jimmaruAPI.csproj",
+      "projectPath": "C:\\BSIT\\jimmaru\\jimmaruAPI\\jimmaruAPI.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACER\\Documents\\jimmaru\\jimmaruAPI\\obj\\",
+      "outputPath": "C:\\BSIT\\jimmaru\\jimmaruAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,7 @@
+C:\Users\ACER\Documents\jimmaru\jimmaruAPI\jimmaruAPI\jimmaruAPI.exe
+C:\Users\ACER\Documents\jimmaru\jimmaruAPI\jimmaruAPI\appsettings.Development.json
+C:\Users\ACER\Documents\jimmaru\jimmaruAPI\jimmaruAPI\appsettings.json
+C:\Users\ACER\Documents\jimmaru\jimmaruAPI\jimmaruAPI\jimmaruAPI.dll
+C:\Users\ACER\Documents\jimmaru\jimmaruAPI\jimmaruAPI\jimmaruAPI.runtimeconfig.json
+C:\Users\ACER\Documents\jimmaru\jimmaruAPI\jimmaruAPI\jimmaruAPI.pdb
+C:\Users\ACER\Documents\jimmaru\jimmaruAPI\jimmaruAPI\jimmaruAPI.deps.json

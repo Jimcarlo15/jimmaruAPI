@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bmJR//vCaG4=",
+  "dgSpecHash": "9q8RjdvFsfE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ACER\\Documents\\jimmaru\\jimmaruAPI\\jimmaruAPI.csproj",
+  "projectFilePath": "C:\\BSIT\\jimmaru\\jimmaruAPI\\jimmaruAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.3\\microsoft.aspnetcore.app.internal.assets.10.0.3.nupkg.sha512"
   ],
